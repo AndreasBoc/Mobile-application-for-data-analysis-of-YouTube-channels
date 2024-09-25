@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mobile Application For Youtube Data Analysis</string>
+    <string name="error_message">Error: %d</string>
+    <string name="failure_message">Failed to fetch data: %s</string>
+    <string name="average_video_duration">Average Video Duration</string>
+    <string name="title">Title</string>
+    <string name="average_long_duration">Average Long Duration</string>
+    <string name="average_shorts_duration">Average Shorts Duration</string>
+    <string name="views_by_published_time_at">Views by published time at:</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="videos_with_most_views">Videos with most views</string>
+    <string name="duration">duration</string>
+    <string name="views">Views</string>
+    <string name="likes">Likes</string>
+    <string name="comments">Comments</string>
+    <string name="published_at">Published at</string>
+    <string name="main">Main</string>
+    <string name="uploads">Uploads</string>
+    <string name="analytics">Analytics</string>
+    <string name="short_video_thumbnail">Short video thumbnail</string>
+    <string name="long_video_thumbnail">Long video thumbnail</string>
+    <string name="profile_image">Profile image</string>
+</resources>
